@@ -1,6 +1,6 @@
 Hi, I'm Asma Ul Husna Tahir👋
 
-💻 Software Developer focused on building practical applications
+💻 Aspiring Web Developer | Java -Python -JavaScript 
 🚀 Passionate about problem-solving and learning modern technologies
 
 ## 🔧 Tech Stack
@@ -23,9 +23,10 @@ Hi, I'm Asma Ul Husna Tahir👋
 * Build impactful and scalable applications
 * Continuously learn and grow in tech
 
-## 📫 Contact
+## 🔗 Connect With Me
 
- [mailto: asmaatahir097@gmail.com]
+[![GitHub](https://img.shields.io/badge/GitHub-asmaatahir-black?logo=github)](https://github.com/asmaatahir) 
+[![Email](https://img.shields.io/badge/Email-asmaatahir097%40gmail.com-red?logo=gmail)](mailto:asmaatahir097@gmail.com)
 
 <!---
 asmaatahir/asmaatahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
